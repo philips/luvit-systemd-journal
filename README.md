@@ -1,4 +1,4 @@
-# Luvit systemd journal binding
+# luvit systemd journal binding
 
 FFI based luvit binding for the systemd journal.
 
