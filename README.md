@@ -4,7 +4,7 @@ FFI based luvit binding for the systemd journal.
 
 ## Usage
 
-As a first pass the
+As a first pass the api only supports print and send.
 
 ```
 local fmt = require('string').format
